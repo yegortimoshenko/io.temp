@@ -1,5 +1,5 @@
 (ns yegortimoshenko.temp
-  (:import [java.nio.file Files Path]
+  (:import [java.nio.file Files]
            [java.nio.file.attribute FileAttribute]))
 
 (def attributes (into-array FileAttribute []))
