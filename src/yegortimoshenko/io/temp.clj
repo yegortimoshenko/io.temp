@@ -1,4 +1,4 @@
-(ns yegortimoshenko.temp
+(ns yegortimoshenko.io.temp
   (:import [java.nio.file Files]
            [java.nio.file.attribute FileAttribute]))
 
